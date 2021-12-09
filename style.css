@@ -1,0 +1,37 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'raleway', sans-serif;
+}
+.navbar  {
+    width: 90%;
+    margin: auto;
+    transition: 0.5s ease;
+    box-shadow: 2px 2px 2px rgba(0,0,0,0.8);
+}
+.glyphicon, a {
+    color: #00aa39;
+}
+.menu {
+    text-align: center;
+    font-size: 35px;
+    margin: 20px 0 5px 0;
+    font-weight: bold;
+    color: #00aa39;
+}
+.content {
+    margin: 0 5% 0 5%;
+    background: #00aa39;
+    padding: 2px 15px 15px 15px ;
+    border-radius: 8px;
+    box-shadow: 2px 2px 2px rgba(0,0,0,0.8);
+}
+h2 {
+    text-align: center;
+    font-weight: 700;
+    color: rgb(236, 235, 235);
+}
+p {
+    color: rgb(236, 235, 235);
+    text-align: justify;
+}
